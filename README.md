@@ -5,4 +5,3 @@ The world was designed in Gazebo Classic to be used in ROS projects and applicat
 
 
 
-
